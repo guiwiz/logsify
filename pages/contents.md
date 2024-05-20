@@ -1,5 +1,6 @@
 # Guides
-	- [[logsify]]
-		- [[LogSeq - Instalación windows ES]]
-	- [[sheet2web guide]]
-	-
+  - [[logsify]]
+    - [[LogSeq - Instalación windows ES]]
+    - [[LogSeq - Configuration EN]]
+    - [[sheet2web guide]]
+    -
